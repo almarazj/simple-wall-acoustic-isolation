@@ -9,5 +9,5 @@ Los modelos que utiliza para los cálculos son los siguientes:
 - Sharp
 - Ley de masa corregida.
 
-![image](https://user-images.githubusercontent.com/87951054/141727219-f9618bef-2c96-4ef3-b8fc-638421800288.png)
+![image](https://user-images.githubusercontent.com/87951054/141727538-66f096f4-c0c8-4cb8-a1b5-55d3c1c30d24.png)
 
